@@ -1,1 +1,1 @@
-learn basics of javascript
+learn basics of typescript
