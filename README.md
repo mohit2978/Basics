@@ -1,1 +1,1 @@
-learn basics of typescript
+Basics of programming
